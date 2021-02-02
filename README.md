@@ -10,7 +10,7 @@
 ## Project Description/Outline:
 Looking at air quality during certain events such as the fires of 2020, or during set time periods (quarterly) over a few years to track how the air quality has changed. Using OpenAQ API, and other government sources, comparing different cities during the fires/covid shut downs and general qir quality over time. Looking at particulates and carbon monoxide.  Track over time air quality changes looking at the certain elements (particulates and carbon monoxide). 
 
-##Possible Questions to Answer 
+##Possible Questions to Answer : 
 Did the shutdown correlate with a increase in air quality? Less people on the roads contibuting to less air pollution? 
 What areas of the globe experienced the most impact with COVID shut downs? Tracking air quality over time with certain cities.
 How long do events such as large forest fires affect the air quality and how far geographically does the air quality get affected?
