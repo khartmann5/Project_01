@@ -11,12 +11,12 @@
 Looking at air quality and its relationship to population density and access to public transportation and weather patterns.  
 
 ## Possible Questions to Answer : 
-Is there a direct relationship between population density and air quality?
-How does use of Public Transportation play a part in air quality, does higher usage of Public Transportation equate to better air quality?
-Do areas with a smaller population but also less access to Public Transportation have comparible air quality to an area with a higher population?
-How do weather patterns play a part?
-Do hotter dryer areas have a worse air quality despite their population and access to public transportation?
-Do colder and wetter areas have better air quality despite their population and access to public transportation?
+-Is there a direct relationship between population density and air quality?
+-How does use of Public Transportation play a part in air quality, does higher usage of Public Transportation equate to better air quality?
+-Do areas with a smaller population but also less access to Public Transportation have comparible air quality to an area with a higher population?
+-How do weather patterns play a part?
+-Do hotter dryer areas have a worse air quality despite their population and access to public transportation?
+-Do colder and wetter areas have better air quality despite their population and access to public transportation?
 
 
 
