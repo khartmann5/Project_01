@@ -48,5 +48,5 @@ Research the air quality data set and combing with citipy to get a list of citie
 - The east coast has a higher usage of public transportation than the rest of the country.
 ![heatmap_transitrate](Images/heatmap_transit_rate.png)
 
-## Link to presentation slide deck https://docs.google.com/presentation/d/1iEJp5WzoIejDuRsjecA4bbgzzRKQqYOO7k9N02tLIc4/edit?usp=sharing
+[Link to presentation slide](https://docs.google.com/presentation/d/1iEJp5WzoIejDuRsjecA4bbgzzRKQqYOO7k9N02tLIc4/edit?usp=sharing)
 
