@@ -35,11 +35,11 @@ Research the air quality data set and combing with citipy to get a list of citie
 ### Does high use of public transportation increase the quality of air?
 - There is a connection betwen public transportation and air quality, however it's not as strong as we were expecting.
 
-### Do Cities with a higher population have worse AQI than smaller cities despite the use of public transportation?
+### Do cities with a higher population have worse AQI than smaller cities despite the use of public transportation?
 - California has the worst air quality overall, no matter the population of the area or the percentage of people using public transportation.
 
 ### Comparison of the population of the city compared to air quality
-- Population of the city does note seem to impact air quality.
+- Population of the city does not seem to impact air quality.
 
 ### Where is the best public transit usage?
 - The east coast has a higher usage of public transportation than the rest of the country.
