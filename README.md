@@ -6,6 +6,7 @@
 * Patrice Woida
 * Katie Hartmann
 
+[Google Slide Presentation](https://docs.google.com/presentation/d/1iEJp5WzoIejDuRsjecA4bbgzzRKQqYOO7k9N02tLIc4/edit?usp=sharing)
 
 ## Project Description/Outline:
 Looking at air quality and its relationship to population density and access to public transportation and weather patterns.  
